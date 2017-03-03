@@ -1,14 +1,222 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-03T16:48:58+08:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/03/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-03T16:44:23+08:00</published><updated>2017-03-03T16:44:23+08:00</updated><id>http://localhost:4000/jekyll/update/2017/03/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/03/03/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>飘于云上</title>
+    <description>我是一只勤奋的小蜜蜂，嗡嗡嗡，找蝴蝶啊找蝴蝶
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 03 Mar 2017 19:08:21 +0800</pubDate>
+    <lastBuildDate>Fri, 03 Mar 2017 19:08:21 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
+    
+      <item>
+        <title>前端如何写一个精确的倒计时</title>
+        <description>
+</description>
+        <pubDate>Fri, 25 Nov 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/javascript/2016/11/25/how-to-write-a-count-down.html</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript/2016/11/25/how-to-write-a-count-down.html</guid>
+        
+        <category>countdown</category>
+        
+        <category>JavaScript</category>
+        
+        
+        <category>JavaScript</category>
+        
+      </item>
+    
+      <item>
+        <title>使用 JavaScript 创建并下载文件</title>
+        <description>
+</description>
+        <pubDate>Tue, 22 Nov 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/javascript/2016/11/22/js-create-file-and-download.html</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript/2016/11/22/js-create-file-and-download.html</guid>
+        
+        <category>文件</category>
+        
+        <category>下载</category>
+        
+        <category>JavaScript</category>
+        
+        
+        <category>JavaScript</category>
+        
+      </item>
+    
+      <item>
+        <title>Fisher–Yates shuffle 洗牌算法</title>
+        <description>
+</description>
+        <pubDate>Sun, 16 Oct 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/javascript/2016/10/16/shuffle-algorithm.html</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript/2016/10/16/shuffle-algorithm.html</guid>
+        
+        <category>算法</category>
+        
+        <category>shuffle</category>
+        
+        <category>乱序</category>
+        
+        <category>洗牌</category>
+        
+        
+        <category>JavaScript</category>
+        
+      </item>
+    
+      <item>
+        <title>Git 如何 clone 非 master 分支的代码</title>
+        <description>
+</description>
+        <pubDate>Thu, 07 Jul 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/github/2016/07/07/git-clone-not-master-branch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/github/2016/07/07/git-clone-not-master-branch.html</guid>
+        
+        <category>Git</category>
+        
+        <category>GitHub</category>
+        
+        <category>分支</category>
+        
+        
+        <category>GitHub</category>
+        
+      </item>
+    
+      <item>
+        <title>如何使用 babel</title>
+        <description>
+</description>
+        <pubDate>Tue, 14 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/javascript/2016/06/14/how-to-use-babel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript/2016/06/14/how-to-use-babel.html</guid>
+        
+        <category>ES2015</category>
+        
+        <category>ES6</category>
+        
+        <category>ES5</category>
+        
+        <category>babel</category>
+        
+        
+        <category>JavaScript</category>
+        
+      </item>
+    
+      <item>
+        <title>JavaScript 语言精粹笔记3-方法、毒瘤等</title>
+        <description>
+</description>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/javascript/2016/06/10/JavaScript-good-parts-note3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript/2016/06/10/JavaScript-good-parts-note3.html</guid>
+        
+        <category>函数</category>
+        
+        <category>JavaScript</category>
+        
+        
+        <category>JavaScript</category>
+        
+      </item>
+    
+      <item>
+        <title>JavaScript 语言精粹笔记2-继承、数组、正则表达式</title>
+        <description>
+</description>
+        <pubDate>Wed, 08 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/javascript/2016/06/08/JavaScript-good-parts-note2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript/2016/06/08/JavaScript-good-parts-note2.html</guid>
+        
+        <category>继承</category>
+        
+        <category>对象</category>
+        
+        <category>原型</category>
+        
+        <category>Array</category>
+        
+        <category>正则</category>
+        
+        
+        <category>JavaScript</category>
+        
+      </item>
+    
+      <item>
+        <title>JavaScript 语言精粹笔记1-语法、对象、函数</title>
+        <description>
+</description>
+        <pubDate>Tue, 07 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/javascript/2016/06/07/JavaScript-good-parts-note1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript/2016/06/07/JavaScript-good-parts-note1.html</guid>
+        
+        <category>对象</category>
+        
+        <category>函数</category>
+        
+        <category>this</category>
+        
+        <category>闭包</category>
+        
+        <category>面向对象</category>
+        
+        <category>作用域</category>
+        
+        
+        <category>JavaScript</category>
+        
+      </item>
+    
+      <item>
+        <title>浅谈正则表达式中的分组和引用</title>
+        <description>
+</description>
+        <pubDate>Fri, 06 May 2016 11:40:18 +0800</pubDate>
+        <link>http://localhost:4000/javascript/2016/05/06/regular-expression-group.html</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript/2016/05/06/regular-expression-group.html</guid>
+        
+        <category>正则</category>
+        
+        <category>分组</category>
+        
+        <category>Regular</category>
+        
+        
+        <category>JavaScript</category>
+        
+      </item>
+    
+      <item>
+        <title>对这个 jekyll 博客主题的改版和重构</title>
+        <description>
+</description>
+        <pubDate>Sat, 12 Mar 2016 11:40:18 +0800</pubDate>
+        <link>http://localhost:4000/jekyll/2016/03/12/jekyll-theme-version-2.0.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2016/03/12/jekyll-theme-version-2.0.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>端口</category>
+        
+        <category>markdown</category>
+        
+        <category>Foxit</category>
+        
+        <category>RubyGems</category>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
